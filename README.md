@@ -37,6 +37,6 @@ Built an interactive dashboard to analyze sales performance and consumer behavio
 
 ## 📫 Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-pratap-shahi-4495b0189/)
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adarshshahi22@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshshahi22@gmail.com)
 
 ---
